@@ -1,4 +1,4 @@
-# SJ2-C Development Environment
+# Rival Rush Game on SJ2-C Development Environment
 
 The `SJ2` board is an ARM-based platform used at San Jose State University (SJSU) for teaching Embedded Systems. This repository provides a C-based development environment designed for learning low-level microcontroller workings with a Real-Time Operating System (RTOS). It supports cross-platform development (Mac, Linux, Windows) without requiring VMs or WSL for Windows.
 
